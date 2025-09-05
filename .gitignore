@@ -1,0 +1,44 @@
+# Flutter/Dart build and dependency files
+build/
+*.lock
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+ios/Flutter/AppFrameworkInfo.plist
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/
+macos/Flutter/
+macos/Runner.xcworkspace/
+macos/Runner.xcodeproj/
+macos/RunnerTests/
+linux/
+build/
+windows/
+web/
+
+# Node.js backend
+notes_backend/node_modules/
+notes_backend/.env
+notes_backend/.DS_Store
+notes_backend/functions/node_modules/
+
+# Misc
+.DS_Store
+*.log
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
