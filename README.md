@@ -19,6 +19,3 @@ Notes_App is a cross-platform notes management application built with Flutter (f
 - `notes_frontend/`: Flutter app source code
 - `notes_backend/`: Node.js backend API and models
 
-## Getting Started
-See the README in `notes_frontend/` for setup instructions for the Flutter app.
-See the README in `notes_backend/` for backend API details.
